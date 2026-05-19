@@ -1,0 +1,14 @@
+{
+  "hsToolsmith": true,
+  "title": "zendesk-asset-sync",
+  "pitch": "Sync Zendesk tickets with a simple asset inventory model and status automations.",
+  "language": "typescript",
+  "category": "Integration",
+  "keyFeatures": [
+    "Type-safe Zendesk client for tickets, users, and organizations",
+    "Asset-to-ticket linking via custom fields and tags",
+    "Rules engine for auto-updating asset status from ticket events",
+    "Import/export assets as CSV/JSON for non-technical staff"
+  ],
+  "targetUsers": "IT support teams and devs building Zendesk-based school or SMB helpdesks with basic asset tracking."
+}
